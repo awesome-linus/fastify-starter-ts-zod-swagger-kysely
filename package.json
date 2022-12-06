@@ -26,6 +26,8 @@
     "fastify-cli": "^5.6.0",
     "fastify-plugin": "^4.0.0",
     "fastify-zod": "^1.2.0",
+    "kysely": "^0.22.0",
+    "mysql2": "^2.3.3",
     "uuid": "^9.0.0",
     "zod": "^3.19.1"
   },
